@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Jal%20Gandhi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
@@ -302,4 +301,3 @@ https://github.com/jalgandhi-dev
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
-```
